@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Snezzyy2
 - 👀 I’m interested in games
 - 🌱 I’m currently learning C#
-- ⚡ Fun fact: In School i was the bad in math 
+- ⚡ Fun fact: In School I was bad in math 
